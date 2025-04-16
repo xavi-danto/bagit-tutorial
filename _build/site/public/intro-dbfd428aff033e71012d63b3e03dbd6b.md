@@ -1,0 +1,25 @@
+# Introduction
+
+This is a bagit tutorial for 664-02 Programming for Cultural Heritage...
+
+:::{note}
+This is in-progress and will be published by May 12th, 2025.
+:::
+
+```text
+myfirstbag/
+├── data
+│   └── 27613-h
+│       └── images
+│           ├── q172.png
+│           └── q172.txt
+├── manifest-md5.txt
+│     49afbd86a1ca9f34b677a3f09655eae9  data/27613-h/images/q172.png  
+│     408ad21d50cef31da4df6d9ed81b01a7  data/27613-h/images/q172.txt
+└── bagit.txt
+      BagIt-Version: 0.97  
+      Tag-File-Character-Encoding: UTF-8
+```
+:::{caption}
+the above code block is from wikipedia
+:::
